@@ -78,8 +78,8 @@ Estoy disponible para:
 - 🌐 Portfolio: [portafolio-yan-carlos.pages.dev](https://portafolio-yan-carlos.pages.dev/)
 - 🏢 Empresa: [Waira Solutions](https://wairasolutions.com/)
 - 📧 Email: yancarlospinchao2021@itp.edu.co
-- 💼 LinkedIn: [Tu LinkedIn]
-- 🐦 Twitter: [Tu Twitter]
+- 💼 LinkedIn: https://www.linkedin.com/in/yancarlos-pinchao-guerra-0b928a196/
+
 
 ---
 
