@@ -87,6 +87,6 @@ Estoy disponible para:
   
 ### ⚡ "Transformando ideas en realidad digital"
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=YANCARLOSOFICIAL&color=blueviolet)
 
 </div>
