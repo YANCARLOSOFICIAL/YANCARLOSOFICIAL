@@ -56,9 +56,9 @@ Dashboard para análisis de redes sociales con métricas y visualización de dat
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YANCARLOSOFICIAL&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YANCARLOSOFICIAL&layout=compact&theme=radical)
 
 </div>
 
